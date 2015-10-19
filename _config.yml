@@ -72,4 +72,4 @@ theme: maupassant
 deploy:
   type: git 
   repo: git@github.com:jialezhang/jialezhang.github.io.git
-  branch: gh-pages
+  branch: master
