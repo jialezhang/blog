@@ -63,11 +63,11 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: maupassant
+theme: landscape
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type: git
+  type: git 
   repo: git@github.com:jialezhang/blog.git
   branch: gh-pages
